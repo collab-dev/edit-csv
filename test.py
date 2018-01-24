@@ -16,7 +16,7 @@ try:
                     print("The English name is 'Snow White'. Currenly we have '{}'".format(row[0]))
                     exit(1)
                 if row[1] != 'Hófehérke':
-                    print("The Hungarian name is 'Hófehérke'. Currently we have '{}'".format(row[1]))
+                    print("A magyar név 'Hófehérke'. Currently we have '{}'".format(row[1]))
                     exit(1)
 
 
